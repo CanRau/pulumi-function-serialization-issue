@@ -1,0 +1,3 @@
+name: pulumi-function-serialization-issue
+runtime: nodejs
+description: repro
